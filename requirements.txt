@@ -11,3 +11,10 @@ joblib
 requests
 tqdm
 yfinance
+feedparser
+matplotlib
+textblob
+yahoofinance
+lxml
+rapidfuzz
+
