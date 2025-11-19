@@ -39,3 +39,14 @@ python -c "from src.data_processing import build_features; build_features('data/
 
 ''' command run for backtesting:
  python -m src.pipeline.backtest_unified --processed data/processed_data/deepakntr_bo_features.csv --out data/backtest/backtest_results.xlsx --train_end 2025-08-30'''
+
+
+commands to run everything
+ after install
+ pip install -e 
+
+ and then:
+
+fetch_data
+process_data
+backtest
