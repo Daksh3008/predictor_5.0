@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model checkpoints
+models/*.pth
+models/*.pkl
+
+# Data files (optional — remove if you want them tracked)
+data/raw_data/
+data/processed_data/
+data/backtest/
+
+# IDE configs
+.vscode/
+.idea/
+
+# OS / misc
+.DS_Store

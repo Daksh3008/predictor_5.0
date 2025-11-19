@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+lightgbm
+optuna
+torch
+hmmlearn
+arch
+openpyxl
+joblib
+requests
+tqdm
+yfinance
